@@ -2,7 +2,7 @@
   "name": "react-6.2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ivangol739.github.io/React-6.2",
+  "homepage": "https://ivangol739.github.io/React-6.2-front",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
